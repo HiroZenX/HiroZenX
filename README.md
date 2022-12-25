@@ -12,6 +12,5 @@ Hi, I am Hiro.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HiroZenX&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=HiroZenX&icon=4&color=9)](https://visitcount.itsvg.in)
+
 
